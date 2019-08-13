@@ -1,7 +1,7 @@
-## Bootstrap Extended
+# Bootstrap Extended
 Bootstrap claims to be a "mobile first" framework. However, judging from the breakpoints, it's a mobile-only layout framework. The largest breakpoint is 1200 pixels wide. Even my 15'' Surface Book 2 has much more screen estate: its screen is 3240 pixels wide. Many desktop monitors nowdays have a width starting from 1920 pixels, and 4k/8k monitors are gaining popularity by the day. Obviously, the "lg" breakpoint of Bootstrap 3 is merely a joke in 2019. Bootstrap 4 instead adds a new breakpoint called "xl", but in reality, it only adds a breakpoint for super-narrow screens. The largest breakpoint is still 1200 pixels wide.
 Here comes the need of a more "extended" version of Bootstrap capable of managing different designs for wider devices' screens. This version includes the following new breakpoints to accomplish almost any need of wide design for around all kind of screen/TV. If you are aware of wider screens please let me know.
-# New Breakpoints:
+## New Breakpoints:
 
 All the rest and all below this line is pure bootstrap 4 fork.
 
